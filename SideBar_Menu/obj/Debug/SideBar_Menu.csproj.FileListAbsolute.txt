@@ -16,3 +16,20 @@ E:\Project\Hacktoberfest 2021\SideBar_Menu\SideBar_Menu\obj\Debug\SideBar_Menu.c
 E:\Project\Hacktoberfest 2021\SideBar_Menu\SideBar_Menu\obj\Debug\SideBar_Menu.csproj.CopyComplete
 E:\Project\Hacktoberfest 2021\SideBar_Menu\SideBar_Menu\obj\Debug\SideBar_Menu.exe
 E:\Project\Hacktoberfest 2021\SideBar_Menu\SideBar_Menu\obj\Debug\SideBar_Menu.pdb
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\bin\Debug\SideBar_Menu.exe.config
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\bin\Debug\SideBar_Menu.exe
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\bin\Debug\SideBar_Menu.pdb
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\bin\Debug\FontAwesome.Sharp.dll
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\bin\Debug\Guna.UI2.dll
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\bin\Debug\Bunifu.Licensing.dll
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.csproj.AssemblyReference.cache
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.Cookie.resources
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.Form1.resources
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.Home.resources
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.Properties.Resources.resources
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.csproj.GenerateResource.cache
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.exe.licenses
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.csproj.CoreCompileInputs.cache
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.csproj.CopyComplete
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.exe
+D:\New folder (3)\New folder (2)\C-Sharp_Side_Menu-WIN_Forms\SideBar_Menu\obj\Debug\SideBar_Menu.pdb
